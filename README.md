@@ -1,8 +1,10 @@
 # ctrlia-claude-code-otros-editores
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 Tabla comparativa de cómo usar **Claude Code fuera de VS Code**: JetBrains (IntelliJ, PyCharm, Android Studio…), Visual Studio 2022/2026, Xcode 26.3, Zed, Cursor, Devin Desktop (antes Windsurf) y Neovim. Para cada editor: quién mantiene la integración (Anthropic, el fabricante del editor o nadie), cómo se instala, con qué cuenta se paga y qué funciones de Claude Code se pierden, con el enlace oficial al lado.
 
-- La tabla: [TABLA.md](TABLA.md) (English: [TABLA.en.md](TABLA.en.md))
+- La tabla: [TABLA.md](TABLA.md) (English: [en/TABLA.md](en/TABLA.md))
 - Página con la explicación completa: https://ctrlia.dev/recetas/claude-code-otros-editores.html
 - English: https://ctrlia.dev/en/recetas/claude-code-otros-editores.html
 
